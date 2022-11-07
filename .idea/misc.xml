@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/activity_main.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/activity_players_info.xml" value="0.171875" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/activity_splash_screen.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/dialog_custom_layout.xml" value="0.196875" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/include_cricket_info_layout.xml" value="0.4085872576177285" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/players_info_frag_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Navin Pai/Cricket11Club/app/src/main/res/layout/players_info_view.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
